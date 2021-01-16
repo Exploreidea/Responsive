@@ -1,0 +1,12 @@
+
+@media(min-width: 575px){
+	.bricklayer-column {
+    -webkit-box-flex: none;
+    -webkit-flex: none;
+    -ms-flex: none;
+    flex: none;
+    width: 52%;
+}.gameInfo ul li p {
+    line-height: 20px;
+}
+}
